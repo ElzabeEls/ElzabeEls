@@ -11,16 +11,7 @@
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
 ## Skills
-- <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" /> React
-- <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
-- <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00ccff99" /> C# 
-- <img height="32" width="32" src="https://cdn.simpleicons.org/java/00ccff99" /> Java
-- <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" /> PHP
-- <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/#4479A1" /> MySQL
-- <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
-- <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00599C" /> C#
-- <img height="32" width="32" src="https://cdn.simpleicons.org/css/#1572B6" /> CSS
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/html.svg/#E34F26" /> HTML
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00ccff99" /> <img height="32" width="32" src="https://cdn.simpleicons.org/java/00ccff99" /> <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" /> <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/#4479A1" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" /> <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00599C" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css/#1572B6" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/html.svg/#E34F26" />
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
