@@ -11,7 +11,7 @@
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
 ## Skills
-- <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" /> React
+- <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" /> React
 - <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> JavaScript
 - <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> C#
 - <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Java
