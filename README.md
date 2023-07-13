@@ -12,14 +12,15 @@
 
 ## Skills
 - <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" /> React
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> JavaScript
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> C#
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Java
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> PHP
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> MySQL
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Python
-- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> CSS
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> HTML
+- <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
+- <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00ccff99" /> C# 
+- <img height="32" width="32" src="https://cdn.simpleicons.org/java/00ccff99" /> Java
+- <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" /> PHP
+- <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/#4479A1" /> MySQL
+- <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
+- <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#00599C" /> C#
+- <img height="32" width="32" src="https://cdn.simpleicons.org/css/#1572B6" /> CSS
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/html.svg/#E34F26" /> HTML
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
