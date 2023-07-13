@@ -1,7 +1,8 @@
 # [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els)) Elzabé Els
 
 ## 🔭 I’m currently working on ...
-- Coursera Computational Neuroscience Course: https://www.coursera.org/learn/computational-neuroscience
+- Coursera Computational Neuroscience Course:
+  https://www.coursera.org/learn/computational-neuroscience
   
 ## 🌱 I’m currently learning ...
 - Python in Jupyter Notebook
