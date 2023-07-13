@@ -11,17 +11,15 @@
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
 ## Skills
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" />
-- React
-- JavaScript
-- C#
-- Java
-- PHP
-- MySQL
-- Python
-- CSS
-- HTML
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" /> React
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript.svg" /> JavaScript
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/csharp.svg" /> C#
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> Java
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> PHP
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> MySQL
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> Python
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> CSS
+- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> HTML
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
