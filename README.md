@@ -1,7 +1,5 @@
 # Elzabé Els
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElzabeEls&show_icons=true&theme=dark)](https://github.com/ElzabeEls)
-
+[![LinkedIn](https://img.shields.io/badge/badge1-label1-informational)](https://www.linkedin.com/in/maria-elizabeth-els)
 ## 🔭 I’m currently working on ...
 - Coursera Computational Neuroscience Course
   
@@ -23,13 +21,6 @@
 - HTML
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact&theme=dark)](https://github.com/ElzabeEls)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
 
-## Social
-- [LinkedIn](https://www.linkedin.com/in/maria-elizabeth-els)
-
-## Badges
-
-[![Badge 1](https://img.shields.io/badge/badge1-label1-informational)](https://github.com/ElzabeEls)
-[![Badge 2](https://img.shields.io/badge/badge2-label2-important)](https://github.com/ElzabeEls)
-[![Badge 3](https://img.shields.io/badge/badge3-label3-success)](https://github.com/ElzabeEls)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElzabeEls&show_icons=true)](https://github.com/ElzabeEls)
