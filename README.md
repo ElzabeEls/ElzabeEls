@@ -25,6 +25,6 @@
     
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
+[![Top Langs](https://github-readme-stats-ksuijou92-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact)](https://github.com/ElzabeEls)
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElzabeEls&show_icons=true)](https://github.com/ElzabeEls)
+[![Your Name's GitHub stats](https://github-readme-stats-ksuijou92-elzabeels.vercel.app/api?username=ElzabeEls&show_icons=true)](https://github.com/ElzabeEls)
