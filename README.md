@@ -1,4 +1,4 @@
-# Elzabé Els [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els))
+# [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els)) Elzabé Els
 
 ## 🔭 I’m currently working on ...
 - Coursera Computational Neuroscience Course
