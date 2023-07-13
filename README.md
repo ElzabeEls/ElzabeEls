@@ -11,14 +11,14 @@
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
 ## Skills
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" /> React
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/javascript.svg" /> JavaScript
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/csharp.svg" /> C#
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> Java
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> PHP
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> MySQL
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> Python
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> CSS
+- <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" /> React
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> JavaScript
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> C#
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Java
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> PHP
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> MySQL
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> Python
+- <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /> CSS
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" /> HTML
 
 ## Top Languages
