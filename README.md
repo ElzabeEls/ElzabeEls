@@ -1,4 +1,4 @@
-# [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els)) Elzabé Els
+# [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els)](https://www.linkedin.com/in/maria-elizabeth-els)) Elzabé Els
 
 ## 🔭 I’m currently working on:
 - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
