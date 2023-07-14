@@ -3,7 +3,7 @@
 ## 🔭 I’m currently working on:
 - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
   
-## 🌱🌱 I’m currently learning 🌱:
+## 🌱🌱 I’m currently learning 🌱🍃🍃:
 - Python in Jupyter Notebook
 - React
 - TypeScript
