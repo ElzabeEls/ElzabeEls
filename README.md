@@ -8,7 +8,7 @@
 - React
 - TypeScript
 
-## 💃 I’m looking to collaborate on 💃:
+## 🧠🏋️‍♀️ I’m looking to collaborate on:
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 ## Top Languages
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
