@@ -11,6 +11,13 @@
 ## 👯 I’m looking to collaborate on ...
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
+| Skills                                               | Top Languages                                                                                      |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)<br/>Python<br/><br/>![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)<br/>JavaScript<br/><br/>![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)<br/>React | [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=compact&theme=transparent)](https://github.com/ElzabeEls/github-readme-stats) |
+| ![C#](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png)<br/>C#<br/><br/>![C](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png)<br/>C<br/><br/>![PHP](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)<br/>PHP |                                                                                                   |
+| ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)<br/>CSS<br/><br/>![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)<br/>HTML |                                                                                                   |
+
+
 | Column 1                                             | Column 2             |
 | ---------------------------------------------------- | -------------------- |
 | <div style="width: 100%;">Skills</div>               | Top Languages        |
