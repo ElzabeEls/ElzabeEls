@@ -26,4 +26,4 @@
     
 
 ## Top Languages
-[![Top Langs](github-readme-stats-ksuijou92-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ksuijou92-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
