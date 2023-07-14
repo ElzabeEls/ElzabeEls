@@ -43,7 +43,9 @@ Top Languages
 </td>
 <td>
 <div>
+  ```
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=transparent)](https://github.com/ElzabeEls/github-readme-stats)
+  ```
 </div>
 </td>
 </tr>
