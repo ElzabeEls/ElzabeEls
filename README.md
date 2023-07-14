@@ -11,9 +11,6 @@
 ## 👯 I’m looking to collaborate on ...
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
-Certainly! I can create a sub-grid with three rows and three columns in the 'Skills' column and place an image in each sub-section. Here's the updated markdown code:
-
-```markdown
 | Skills                                                      | Top Languages                                                                                      |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | <img src="image1.png" width="100" alt="Image 1"> <br/>      | [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=transparent)](https://github.com/ElzabeEls/github-readme-stats) |
@@ -24,11 +21,6 @@ Certainly! I can create a sub-grid with three rows and three columns in the 'Ski
 | <img src="image6.png" width="100" alt="Image 6"> <br/>      |                                                                                                   |
 | <img src="image7.png" width="100" alt="Image 7"> <br/>      |                                                                                                   |
 | <img src="image8.png" width="100" alt="Image 8"> <br/>      |                                                                                                   |
-```
-
-In the above code, you can replace `image1.png`, `image2.png`, etc., with the actual image URLs or file paths you want to use. Adjust the `width` attribute according to your preference.
-
-This code will create a sub-grid with three rows and three columns in the 'Skills' column, and each sub-section will contain an image.
 
 | Skills                                               | Top Languages                                                                                      |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
