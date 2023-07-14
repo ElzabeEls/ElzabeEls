@@ -26,4 +26,4 @@
     
 
 ## Top Languages
-[![Top Langs](github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=transparent&count-private=true)](https://github.com/ElzabeEls/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=transparent&count-private=true)](https://github.com/ElzabeEls/github-readme-stats)
