@@ -14,15 +14,7 @@
 ## Skills
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" alt="React"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" alt="C#"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="30" alt="C"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="30" alt="Java"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30" alt="PHP"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML">
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="JavaScript"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120" alt="C#"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC" alt="C"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="32" alt="Java">
-<img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" alt="PHP"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/html/#E34F26" alt="HTML"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/css/#1572B6" alt="CSS"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" alt="Python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="JavaScript"/> <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120" alt="C#"/> <img height="32" width="32" src="https://cdn.simpleicons.org/c/#A8B9CC" alt="C"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="32" alt="Java"> <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" alt="PHP"/> <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML"/> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS"/>
 
 
 ## Top Languages
