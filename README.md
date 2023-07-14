@@ -1,11 +1,12 @@
 # [![LinkedIn](./linkedin.png)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maria-elizabeth-els)) Elzabé Els
 
 ## 🔭 I’m currently working on ...
-- Coursera Computational Neuroscience Course:
-  https://www.coursera.org/learn/computational-neuroscience
+- <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
   
 ## 🌱 I’m currently learning ...
 - Python in Jupyter Notebook
+- React
+- TypeScript
 
 ## 👯 I’m looking to collaborate on ...
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
