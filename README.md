@@ -11,7 +11,17 @@
 ## 👯 I’m looking to collaborate on ...
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
-Sure! I will modify the markdown layout to make the images smaller. Here's the updated version:
+| Skills                          | Top Languages    |
+|---------------------------------|------------------|
+| | Sub-grid row 1, column 1 | Sub-grid row 1, column 2 | Sub-grid row 1, column 3 |
+| | Sub-grid row 2, column 1 | Sub-grid row 2, column 2 | Sub-grid row 2, column 3 |
+| | Sub-grid row 3, column 1 | Sub-grid row 3, column 2 | Sub-grid row 3, column 3 |
+|---------------------------------|------------------|
+|                                 | Language 1       |
+|                                 | Language 2       |
+|                                 | Language 3       |
+
+
 
 | Skills                                               | Top Languages                                                                |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
