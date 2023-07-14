@@ -42,7 +42,9 @@ Top Languages
     <img height="90" width="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 </td>
 <td>
+<div>
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=transparent)](https://github.com/ElzabeEls/github-readme-stats)
+</div>
 </td>
 </tr>
 </table>
