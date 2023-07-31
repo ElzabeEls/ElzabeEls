@@ -1,10 +1,8 @@
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/johannes-esterhuizen-4b8252150) Johannes Esterhuizen
   
 ## I’m currently learning:
-- TypeScript
+- TypeScript on Udemy
 
-## I’m looking to collaborate on:
-- Any project that integrates Mathematics, Biology, Engineering and Psychology
 ## Top Languages
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
 
