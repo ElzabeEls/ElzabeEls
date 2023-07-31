@@ -1,5 +1,36 @@
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
+<pre>
+                        *             *                            <br>
+                              *                     *                 <br>
+    .(//.  *         *                      *                         <br> 
+  ,(((/ %%  %                     % %            *                    <br> 
+  *((/////*  % %  *    % %      %  *  %   *           *               <br> 
+   *,///*      %      %     % %       %      % %                      <br> 
+           .     *        *            % % %     %  *                 <br> 
+            #    %    %             *            %                    <br>  
+            %#              ,,                  %                     <br> 
+         / %  ,,      %        %               %         *            <br> 
+       (    ,      %          )  .,          %  *                     <br> 
+      %   (           %         . ,%        %                         <br> 
+     (  .        #. *            )  %        % %                      <br> 
+     %  %         /%&&%%/         , %            %                    <br> 
+     # %%          %   %          %%  .        %                      <br> 
+     %  %           % %          )  #      %%%%%%%                    <br> 
+      (  %          % %         ,   ,       ,   #                     <br> 
+       %  (         % %        %  ,         ,   #                     <br> 
+        .(   %      % %     %,   #          #   #                     <br> 
+           %      #%%%%%,     %             %   %                     <br> 
+             %              /             %      %                    <br>
+              %            *             %         *                  <br> 
+              *            %           # ,((((((((( %                 <br> 
+              %%%%%%%%%%%%%%#         % (((((((((((( ..               <br> 
+              (############(      (( % ((((((((((((((..))             <br> 
+               ************       %/)))))))))))))))))))))%/           <br> 
+              %%%%%%%%%%%%%%#     %/%%%%%%%%%%%%%%%%%%%%%/            <br> 
+</pre>
+
+
 ## 🔭 Currently Working On
 - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
   
