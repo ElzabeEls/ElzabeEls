@@ -5,14 +5,12 @@
             
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 <br> 
-<br>
 <h2> 🔭 Currently Working On </h2>
 <ul>
 <li>
 <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
 </li>
 <br> 
-<br>
 <br> 
 <h2> 🌱🌱 Currently Learning 🌱🍃🍃 </h2>
 <li>
@@ -25,7 +23,6 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 </li>
 <br> 
-<br>
 <br> 
 <h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
 <li>
