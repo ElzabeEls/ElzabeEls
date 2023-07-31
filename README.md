@@ -8,14 +8,8 @@
 - <img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> React
 - <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 
-    <table>
-        <tr>
-            <td>
-                <h2> 🔭 Currently Working On </h2>
-                   <p> - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a></p>
-            </td>
-            <td>
-<code>                        *             *                            <br>
+<pre>
+                        *             *                            <br>
                               *                     *                 <br>
     .(//.  *         *                      *                         <br> 
   ,(((/ %%  %                     % %            *                    <br> 
@@ -42,11 +36,8 @@
               (############(      (( % ((((((((((((((..))             <br> 
                ************       %/)))))))))))))))))))))%/           <br> 
               %%%%%%%%%%%%%%#     %/%%%%%%%%%%%%%%%%%%%%%/            <br> 
-</code>
+</pre>
 
-            </td>
-        </tr>
-    </table>
 
 ## 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
