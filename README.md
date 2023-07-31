@@ -2,7 +2,7 @@
 <tr>
 <td>
             
-[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) <h1>Elzabé Els </h1>
+[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) <span> <h1>Elzabé Els </h1> </span>
 <br> 
 <br>
 <br> 
