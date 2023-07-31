@@ -1,8 +1,10 @@
-# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
-
 <table>
 <tr>
 <td>
+<h1> [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els </h1>
+<br> 
+<br>
+<br> 
 <h2> 🔭 Currently Working On </h2>
 <ul>
 <li>
