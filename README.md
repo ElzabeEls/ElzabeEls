@@ -8,37 +8,6 @@
 - <img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> React
 - <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 
-<pre>
-                        *             *                            <br>
-                              *                     *                 <br>
-    .(//.  *         *                      *                         <br> 
-  ,(((/ %%  %                     % %            *                    <br> 
-  *((/////*  % %  *    % %      %  *  %   *           *               <br> 
-   *,///*      %      %     % %       %      % %                      <br> 
-           .     *        *            % % %     %  *                 <br> 
-            #    %    %             *            %                    <br>  
-            %#              ,,                  %                     <br> 
-         / %  ,,      %        %               %         *            <br> 
-       (    ,      %          )  .,          %  *                     <br> 
-      %   (           %         . ,%        %                         <br> 
-     (  .        #. *            )  %        % %                      <br> 
-     %  %         /%&&%%/         , %            %                    <br> 
-     # %%          %   %          %%  .        %                      <br> 
-     %  %           % %          )  #      %%%%%%%                    <br> 
-      (  %          % %         ,   ,       ,   #                     <br> 
-       %  (         % %        %  ,         ,   #                     <br> 
-        .(   %      % %     %,   #          #   #                     <br> 
-           %      #%%%%%,     %             %   %                     <br> 
-             %              /             %      %                    <br>
-              %            *             %         *                  <br> 
-              *            %           # ,((((((((( %                 <br> 
-              %%%%%%%%%%%%%%#         % (((((((((((( ..               <br> 
-              (############(      (( % ((((((((((((((..))             <br> 
-               ************       %/)))))))))))))))))))))%/           <br> 
-              %%%%%%%%%%%%%%#     %/%%%%%%%%%%%%%%%%%%%%%/            <br> 
-</pre>
-
-
 ## 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
