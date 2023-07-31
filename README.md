@@ -4,9 +4,9 @@
 - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
   
 ## 🌱🌱 Currently Learning 🌱🍃🍃
-- Python in Jupyter Notebook
-- React
-- TypeScript
+- <img height="25" width="25" src="https://cdn.simpleicons.org/python/#61DAFB" alt="Python"/> in Jupyter Notebook
+- <img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/>
+- <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/>
 
 ## 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
