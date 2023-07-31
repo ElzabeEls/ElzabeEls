@@ -1,14 +1,14 @@
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
-## 🔭 I’m currently working on:
+## 🔭 Currently Working On:
 - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
   
-## 🌱🌱 I’m currently learning 🌱🍃🍃:
+## 🌱🌱 Currently Learning 🌱🍃🍃:
 - Python in Jupyter Notebook
 - React
 - TypeScript
 
-## 🧠🏋️‍♀️ I’m looking to collaborate on 🏋️‍♀️🏋️‍♂️:
+## 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️:
 - Any project that integrates Mathematics, Biology, Engineering and Psychology
 
 ## Skills
