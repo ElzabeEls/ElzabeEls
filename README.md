@@ -15,7 +15,7 @@
                    <p> - <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a></p>
             </td>
             <td>
-<code>`                        *             *                            <br>
+<code>                        *             *                            <br>
                               *                     *                 <br>
     .(//.  *         *                      *                         <br> 
   ,(((/ %%  %                     % %            *                    <br> 
@@ -42,7 +42,8 @@
               (############(      (( % ((((((((((((((..))             <br> 
                ************       %/)))))))))))))))))))))%/           <br> 
               %%%%%%%%%%%%%%#     %/%%%%%%%%%%%%%%%%%%%%%/            <br> 
-                                                                      `</code>
+</code>
+
             </td>
         </tr>
     </table>
