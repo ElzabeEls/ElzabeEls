@@ -1,6 +1,6 @@
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
-<pre style="line-height: 0.8;">
+<pre style="line-height: 0.5;">
     *             *                            <br>
           *                     *                 <br>
 .(/.  *         *                      *                         <br> 
