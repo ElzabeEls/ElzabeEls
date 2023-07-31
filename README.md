@@ -1,12 +1,12 @@
 # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
 <pre>
-    <span style="line-height: 0.5;">*             *                            <br></span>
-    <span style="line-height: 0.5;">          *                     *                 <br></span>
-    <span style="line-height: 0.5;">.(/.  *         *                      *                         <br></span>
-    <span style="line-height: 0.5;">,(((/ %%  %                     % %            *                    <br></span>
-    <span style="line-height: 0.5;">*((/////*  % %  *    % %      %  *  %   *           *               <br></span>
-    <span style="line-height: 0.5;"> *,///*      %      %     % %       %      % %                      <br></span>
+    <span style="line-height: 0.5;">*             *                                                   <br></span>
+    <span style="line-height: 0.5;">          *                     *                                 <br></span>
+    <span style="line-height: 0.5;">.(/.  *         *                      *                          <br></span>
+    <span style="line-height: 0.5;">,(((/ %%  %                     % %            *                  <br></span>
+    <span style="line-height: 0.5;">*((/////*  % %  *    % %      %  *  %   *           *             <br></span>
+    <span style="line-height: 0.5;"> *,///*      %      %     % %       %      % %                    <br></span>
     <span style="line-height: 0.5;">       .     *        *            % % %     %  *                 <br></span>
     <span style="line-height: 0.5;">        #    %    %             *            %                    <br></span>
     <span style="line-height: 0.5;">        %#              ,,                  %                     <br></span>
