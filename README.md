@@ -17,6 +17,34 @@
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
 
 
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td>
+<h2> 🌱🌱 Currently Learning 🌱🍃🍃 </h2>
+<li>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25" alt="Python"> Python in Jupyter Notebook
+</li>
+<li>
+<img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> React
+</li>
+<li>
+<img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
+</li>
+<br> 
+<h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
+<li>
+Any project that integrates Mathematics, Biology, Engineering and Psychology
+</li>
+</td>
+            
+<td>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="37" width="37" alt="Python">
+</td>
+</tr>
+</table>
+
+
+
 
 
 
