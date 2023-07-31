@@ -1,9 +1,8 @@
+# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
 <td>
-            
-# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 <br> 
 <h2> 🔭 Currently Working On </h2>
 <ul>
@@ -37,32 +36,7 @@ Any project that integrates Mathematics, Biology, Engineering and Psychology
 </td>
             
 <td>
-    <pre>
-    <span style="line-height: 0.5;">                                % %            *        <br></span>
-    <span style="line-height: 0.5;">                    % %      %  *  %   *           *   <br></span>
-    <span style="line-height: 0.5;">                    %     % %       %      % %          <br></span>
-    <span style="line-height: 0.5;">                      *            % % %     %  *       <br></span>
-    <span style="line-height: 0.5;">             %    %             *            %          <br></span>
-    <span style="line-height: 0.5;">        %#              ,,                  %           <br></span>
-    <span style="line-height: 0.5;">     / %  ,,      %        %               %         *  <br></span>
-    <span style="line-height: 0.5;">   (    ,      %          )  .,          %  *           <br></span>
-    <span style="line-height: 0.5;">  %   (           %         . ,%        %               <br></span>
-    <span style="line-height: 0.5;"> (  .        #. *            )  %        % %            <br></span>
-    <span style="line-height: 0.5;"> %  %         /%&&%%/         , %            %          <br></span>
-    <span style="line-height: 0.5;"> # %%          %   %          %%  .        %            <br></span>
-    <span style="line-height: 0.5;"> %  %           % %          )  #      %%%%%%%          <br></span>
-    <span style="line-height: 0.5;">  (  %          % %         ,   ,       ,   #           <br></span>
-    <span style="line-height: 0.5;">   %  (         % %        %  ,         ,   #           <br></span>
-    <span style="line-height: 0.5;">    .(   %      % %     %,   #          #   #           <br></span>
-    <span style="line-height: 0.5;">       %      #%%%%%,     %             %   %           <br></span>
-    <span style="line-height: 0.5;">         %              /             %      %          <br></span>
-    <span style="line-height: 0.5;">          %            *             %         *        <br></span>
-    <span style="line-height: 0.5;">          *            %           # ,((((((((( %       <br></span>
-    <span style="line-height: 0.5;">          %%%%%%%%%%%%%%#         % (((((((((((( ..     <br></span>
-    <span style="line-height: 0.5;">          (############(      (( % ((((((((((((((..))   <br></span>
-    <span style="line-height: 0.5;">           ************       %/)))))))))))))))))))))%/ <br></span>
-    <span style="line-height: 0.5;">          %%%%%%%%%%%%%%#     %/%%%%%%%%%%%%%%%%%%%%%/  <br></span>
-</pre>
+<img src="./sience_image.png" height="400" width="400" alt="Python">
 </td>
 </tr>
 </table>
