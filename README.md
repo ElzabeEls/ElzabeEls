@@ -1,12 +1,9 @@
+
 <table>
 <tr>
 <td>
-<h1>Elzabé Els </h1>
             
-[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) 
-<br> 
-<br>
-<br> 
+# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 <h2> 🔭 Currently Working On </h2>
 <ul>
 <li>
