@@ -1,10 +1,10 @@
-    # [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
+# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
 <td>
 <br> 
-<h2>    🔭 Currently Working On </h2>
+<h2> 🔭 Currently Working On </h2>
 <ul>
 <li>
 <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
