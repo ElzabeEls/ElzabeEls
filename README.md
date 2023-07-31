@@ -38,14 +38,11 @@ Any project that integrates Mathematics, Biology, Engineering and Psychology
             
 <td>
     <pre>
-    <span style="line-height: 0.5;">*             *                                         <br></span>
-    <span style="line-height: 0.5;">          *                     *                       <br></span>
-    <span style="line-height: 0.5;">.(/.  *         *                      *                <br></span>
-    <span style="line-height: 0.5;">,(((/ %%  %                     % %            *        <br></span>
-    <span style="line-height: 0.5;">*((/////*  % %  *    % %      %  *  %   *           *   <br></span>
-    <span style="line-height: 0.5;"> *,///*      %      %     % %       %      % %          <br></span>
-    <span style="line-height: 0.5;">       .     *        *            % % %     %  *       <br></span>
-    <span style="line-height: 0.5;">        #    %    %             *            %          <br></span>
+    <span style="line-height: 0.5;">                                % %            *        <br></span>
+    <span style="line-height: 0.5;">                    % %      %  *  %   *           *   <br></span>
+    <span style="line-height: 0.5;">                    %     % %       %      % %          <br></span>
+    <span style="line-height: 0.5;">                      *            % % %     %  *       <br></span>
+    <span style="line-height: 0.5;">             %    %             *            %          <br></span>
     <span style="line-height: 0.5;">        %#              ,,                  %           <br></span>
     <span style="line-height: 0.5;">     / %  ,,      %        %               %         *  <br></span>
     <span style="line-height: 0.5;">   (    ,      %          )  .,          %  *           <br></span>
