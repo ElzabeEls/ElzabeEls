@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td>
-<h1> [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els </h1>
+            
+[![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) <h1>Elzabé Els </h1>
 <br> 
 <br>
 <br> 
