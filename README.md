@@ -27,7 +27,7 @@
 <h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
 <li>
 Any project that integrates Mathematics, Biology, Engineering and Psychology
-<li>
+</li>
 <br> 
 <br>
 <br>         
