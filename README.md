@@ -34,7 +34,7 @@ Any project that integrates Mathematics, Biology, Engineering and Psychology
 </td>
             
 <td>
-<img src="./sience_image.png" height="400" width="400" alt="science image">
+<img src="./sience_image2.png" height="400" width="400" alt="science image">
 <br>
 <br> 
             
