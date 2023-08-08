@@ -13,13 +13,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25" alt="Python"> Python in Jupyter Notebook
 </li>
 <li>
-<img height="25" width="25" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" alt="Next.js">  Next.js
+<img height="25" width="25" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" alt="Next.js"> Next.js
 </li>
 <li>
-<img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/>  React
+<img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> React
 </li>
 <li>
-<img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/>  TypeScript
+<img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 </li>
 <br> 
 <h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
