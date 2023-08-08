@@ -3,11 +3,11 @@
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
 <td>
-<br> 
 <h2> 🔭 Currently Working On </h2>
 <li>
 <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
 </li>
+<br>
 <h2> 🌱🌱 Currently Learning 🌱🍃🍃 </h2>
 <li>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25" alt="Python"> Python in Jupyter Notebook
