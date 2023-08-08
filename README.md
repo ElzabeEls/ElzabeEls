@@ -33,10 +33,9 @@ Any project that integrates Mathematics, Biology, Engineering and Psychology
 </td>
             
 <td>
-            
-[![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
-<br>
 <br>           
+[![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
+<br>          
 <img src="./science_image2.png" height="350" width="350" alt="science image">
 </td>
 </tr>
