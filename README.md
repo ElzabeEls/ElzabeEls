@@ -39,8 +39,6 @@ Projects that integrate Mathematics, Biology, Engineering and Psychology
 [![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical)](https://github.com/ElzabeEls/github-readme-stats)
 
 <br>
-
-<img height="45" width="50" src="Screenshot 2023-10-23 at 14.08.04.png" alt="Git Workflow"/>
 </td>
 </tr>
 </table>
