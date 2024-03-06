@@ -27,7 +27,7 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 </li>
 <br> 
-<h2>🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️</h2>
+<h2>🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♀️</h2>
 <li>
 Projects that integrate Mathematics, Biology, Engineering and Psychology
 </li>
