@@ -26,6 +26,11 @@
 <li>
 <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 </li>
+<br> 
+<h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
+<li>
+Projects that integrate Mathematics, Biology, Engineering and Psychology
+</li>
 </td>
             
 <td>
@@ -36,11 +41,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElzabeEls&bg_color=000000&color=ff0040&line=00fbff&point=fbff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br> 
-<h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
-<li>
-Projects that integrate Mathematics, Biology, Engineering and Psychology
-</li>
 </td>
 </tr>
 </table>
