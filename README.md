@@ -13,7 +13,7 @@
 <a href="">Personal Project (NextJS App. More details to follow soon) </a>
 </li>
 <br>
-<h2> 🌱🌱 Currently Learning 🌱🍃🍃 </h2>
+<h2>🌱🌱 Currently Learning 🌱🍃🍃 </h2>
 <li>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25" alt="Python"> Python in Jupyter Notebook via <a href="https://www.coursera.org/learn/computational-neuroscience">Coursera Computational Neuroscience Course</a>
 </li>
@@ -27,7 +27,7 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
 </li>
 <br> 
-<h2> 🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♂️ </h2>
+<h2>🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️</h2>
 <li>
 Projects that integrate Mathematics, Biology, Engineering and Psychology
 </li>
