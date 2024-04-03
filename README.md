@@ -10,7 +10,7 @@
 <br>
 <h2> 🔭 Currently Working On </h2>
 <li>
-<a href="">Personal Project (NextJS App. More details to follow soon) </a>
+Personal Project (NextJS App. More details to follow soon)
 </li>
 <br>
 <h2>🌱🌱 Currently Learning 🌱🍃🍃 </h2>
