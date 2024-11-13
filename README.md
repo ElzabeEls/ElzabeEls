@@ -20,7 +20,7 @@ Personal Project (NextJS App. More details to follow soon)
 <img height="25" width="25" src="https://avatars.githubusercontent.com/u/14985020?s=40&v=4" alt="Next.js"> Next.js
 </li>
 <li>
-<img height="25" width="25" src="https://cdn.simpleicons.org/react/#61DAFB" alt="React"/> React
+<img height="25" width="25" src="./images/react-color.svg" alt="React"/> React
 </li>
 <li>
 <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
