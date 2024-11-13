@@ -1,4 +1,4 @@
-# [![LinkedIn](./linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
+# [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/maria-elizabeth-els) Elzabé Els
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
