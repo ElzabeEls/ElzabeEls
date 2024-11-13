@@ -34,7 +34,7 @@ Projects that integrate Mathematics, Biology, Engineering and Psychology
             
 <td>
 
-[![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical&hide=jupyter%20notebook,html,css,php)](https://github.com/ElzabeEls/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-ekm86oxwf-elzabeels.vercel.app/api/top-langs/?username=ElzabeEls&layout=donut&theme=radical&hide=jupyter%20notebook,html,css,php,hack)](https://github.com/ElzabeEls/github-readme-stats) <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElzabeEls&bg_color=000000&color=ff0040&line=00fbff&point=fbff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
