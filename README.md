@@ -23,7 +23,7 @@ Personal Project (NextJS App. More details to follow soon)
 <img height="25" width="25" src="./images/react-color.svg" alt="React"/> React
 </li>
 <li>
-<img height="25" width="25" src="https://cdn.simpleicons.org/typescript/#61DAFB" alt="Typescript"/> TypeScript
+<img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" alt="Typescript"/> TypeScript
 </li>
 <br> 
 <h2>🧠🏋️‍♀️ Looking to Collaborate On 🏋️‍♀️🏋️‍♀️</h2>
